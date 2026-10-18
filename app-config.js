@@ -1,3 +1,4 @@
+//Configuracion central
 const appConfig = {
     appName: "HealthApp",
     apiBaseUrl: "http://localhost:3000/api/v2",
